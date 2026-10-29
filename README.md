@@ -22,7 +22,7 @@
       <img src="./wizard.png" width="100%" alt="AI wizard mascot" />
     </td>
     <td width="52%" align="center" valign="middle">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabreenAfd&bg_color=0D1117&color=F5B14C&line=60C8FF&point=FF4D4D&area=false&hide_border=false&border_color=C99A4B&title_color=F5B14C&custom_title=Sabreen%27s%20Contribution%20Graph" width="100%" alt="Sabreen's Contribution Graph" />
+      <img src="https://ghchart.rshah.org/F5B14C/SabreenAfd" width="100%" alt="Sabreen's Contribution Graph" />
     </td>
   </tr>
 </table>
